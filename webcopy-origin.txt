@@ -1,0 +1,784 @@
+Uri: https://fonts.googleapis.com/css?family=Sora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Space+Grotesk:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.2.3
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VnskPMU.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VnskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVnskPMU.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVnskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UXskPMU.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UXskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUXskPMU.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUXskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMU.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\s\spacegrotesk\v16\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMU.ttf
+Content Type: font/ttf
+
+Uri: https://gloop-solana.fun/
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\index.htm
+Content Type: text/html
+
+Uri: https://gloop-solana.fun/css/accordion.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\accordion.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/all.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\all.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/animated_heading.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\animated_heading.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/animations.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\animations.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/blockquote.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\blockquote.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/card_slider.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\card_slider.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/counter.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\counter.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/cta.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\cta.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/ekiticons.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/frontend-lite.min_1.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\frontend-lite.min_1.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/grid.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\grid.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/headerinfo.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\headerinfo.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/helper-parts.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\helper-parts.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/intlTelInput.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/jeg-dynamic-styles.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\jeg-dynamic-styles.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/main.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\main.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/main.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\main.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/metform-ui.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\metform-ui.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/navmenu.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\navmenu.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/offcanvas.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\offcanvas.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/post-12.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\post-12.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/post-46.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\post-46.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/progress-bar.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\progress-bar.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/responsive.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\responsive.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rform-button.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rform-button.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rform-checkbox.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rform-checkbox.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rform-radiobutton.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rform-radiobutton.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rform-select.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rform-select.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rform.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rform.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rkit-blog-post.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rkit-blog-post.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rkit-navmenu.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rkit-navmenu.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rkit.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rkit.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rkit_team.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rkit_team.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/rtform_text.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\rtform_text.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/running_text.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\running_text.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/search.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\search.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/social_share.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\social_share.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/spinner-loading.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\spinner-loading.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/style.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\style.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/style_1.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\style_1.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/tabs.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\tabs.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/testimonial_carousel.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\testimonial_carousel.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/text-editor.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\text-editor.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/v4-shims.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/css/widget-styles.css
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://gloop-solana.fun/fonts/DMSans-Bold-Italic.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\DMSans-Bold-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/DMSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\DMSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/DMSans-Regular-Italic.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\DMSans-Regular-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/DMSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\DMSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/elementskit.woff
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\elementskit.woff
+Content Type: application/font-woff
+
+Uri: https://gloop-solana.fun/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gloop-solana.fun/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gloop-solana.fun/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://gloop-solana.fun/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gloop-solana.fun/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gloop-solana.fun/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://gloop-solana.fun/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gloop-solana.fun/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gloop-solana.fun/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://gloop-solana.fun/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/IBMPlexMono-Bold.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\IBMPlexMono-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/IBMPlexMono-Italic.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\IBMPlexMono-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/IBMPlexMono-Light.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\IBMPlexMono-Light.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/IBMPlexMono-Regular.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\IBMPlexMono-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/Inter-VariableFont_slnt%2Cwght.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\Inter-VariableFont_slnt,wght.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gloop-solana.fun/fonts/rtm-icon.eot
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\rtm-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gloop-solana.fun/fonts/rtm-icon.ttf
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\rtm-icon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gloop-solana.fun/fonts/rtm-icon.woff
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\rtm-icon.woff
+Content Type: application/font-woff
+
+Uri: https://gloop-solana.fun/fonts/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/fonts/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\fonts\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://gloop-solana.fun/images/arrow.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\arrow.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-1-277x300.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-1-277x300.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-1.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-1.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/ASET-13.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\ASET-13.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-2-277x300.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-2-277x300.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-2.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-2.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-3-277x300.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-3-277x300.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-3.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-3.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-4-277x300.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-4-277x300.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-4.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-4.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/aset-6.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\aset-6.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/bg-1.jpg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gloop-solana.fun/images/bg-head-section.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\bg-head-section.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/bg-wire.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\bg-wire.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/cross-out.svg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop-solana.fun/images/dots-r.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\dots-r.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop-solana.fun/images/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop-solana.fun/images/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop-solana.fun/images/flags%402x.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\flags@2x.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/flags.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\flags.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/genesys1-1536x320.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\genesys1-1536x320.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/genesys1.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\genesys1.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/letter-x.svg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\letter-x.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop-solana.fun/images/old-stile.jpg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\old-stile.jpg
+Content Type: image/jpeg
+
+Uri: https://gloop-solana.fun/images/partner-4-1024x336.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\partner-4-1024x336.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/partner-4-300x98.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\partner-4-300x98.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/partner-4-768x252.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\partner-4-768x252.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/partner-4.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\partner-4.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/partner-5.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\partner-5.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/partner-6.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\partner-6.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/partner-7.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\partner-7.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/rtm-icon.svg
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\rtm-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop-solana.fun/images/sort_asc.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\sort_asc.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/images/sort_desc.png
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\images\sort_desc.png
+Content Type: image/png
+
+Uri: https://gloop-solana.fun/js/accordion.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\accordion.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/animate-circle.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\animate-circle.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/animated_heading.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\animated_heading.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/app.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\app.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/bar_chart.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\bar_chart.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/card_slider.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\card_slider.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/chart.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\chart.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/core.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/counter.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\counter.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/element.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\element.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/elementor.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\elementor.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/elementor_1.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\elementor_1.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/elements-handlers.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/escape-html.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\escape-html.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/frontend-script.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\frontend-script.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/frontend.min_1.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\frontend.min_1.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/hooks.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/htm.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\htm.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/i18n.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/intl_tel_input.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\intl_tel_input.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/line_chart.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\line_chart.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/main.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/navmenu.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\navmenu.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/offcanvas.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\offcanvas.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/pie_chart.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\pie_chart.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/progress.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\progress.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/react-dom.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\react-dom.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/react.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\react.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/regenerator-runtime.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/rform.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\rform.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/rform_select.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\rform_select.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/rform_tel_input.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\rform_tel_input.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/rkit-navmenu.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\rkit-navmenu.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/rtform_text.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\rtform_text.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/running_text.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\running_text.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/social_share.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\social_share.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/sticky-element.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\sticky-element.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/tabs.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\tabs.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/testimonial_carousel.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\testimonial_carousel.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/typed.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\typed.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/v4-shims.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\v4-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/webpack-pro.runtime.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/widget-scripts.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\widget-scripts.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/wp-polyfill-inert.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://gloop-solana.fun/js/wp-polyfill.min.js
+File Name: C:\Downloaded Web Sites\gloop-solana.fun\js\wp-polyfill.min.js
+Content Type: application/x-javascript
+
